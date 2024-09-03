@@ -1,9 +1,9 @@
-#NLP
+# NLP
 
-##Overview
+## Overview
 This repository contains various Python scripts and modules related to Natural Language Processing (NLP). The code covers different NLP techniques and models, ranging from basic syntax analysis to advanced machine learning methods.
 
-##Contents
+## Contents
  - bayes.py: Implementation of Naive Bayes classifier for text classification.
  - bert.py: Utilizes BERT for NLP tasks.
  - left_corner_parser.py: Left-corner parser for syntactic analysis.
